@@ -5,5 +5,5 @@ $got_subject = $_REQUEST["$data[2]"];
 $got_message = $_REQUEST["$data[3]"];
 $got_to = $data[4];
 $got_from = $data[5];
-$got_format = $data[6];
+$got_redirect = $data[6];
 ?>
